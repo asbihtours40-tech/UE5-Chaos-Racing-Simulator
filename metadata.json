@@ -1,0 +1,6 @@
+{
+  "name": "UE5 Chaos Racing Simulator",
+  "description": "3D racing simulator implementing Unreal Engine 5 Chaos vehicle physics, detachable bumper collision impulse, lap checkpoint logic, and SaveGame persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
